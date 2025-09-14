@@ -8,4 +8,6 @@ Users can copy the generated email or save it for later use.
 # Screenshots From Project
 <img width="1544" height="874" alt="image" src="https://github.com/user-attachments/assets/07ff4e1a-8f07-43ae-b051-ef62e86d2fad" />
 
+
+
 <img width="1391" height="857" alt="image" src="https://github.com/user-attachments/assets/5b06d353-38a1-4efa-9f51-dc32e6cd34b0" />
